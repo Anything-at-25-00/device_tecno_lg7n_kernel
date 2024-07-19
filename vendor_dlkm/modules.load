@@ -157,8 +157,7 @@ task_turbo.ko
 pmsr.ko
 spmtwam.ko
 mtk_disp_sec.ko
-ft3519_common.ko
-aw862xx_haptic.ko
+omnivision_module.ko
 pn553.ko
 aw87xxx_main.ko
 snd-soc-fsm.ko

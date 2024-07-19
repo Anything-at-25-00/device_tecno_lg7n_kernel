@@ -151,6 +151,9 @@ alias of:N*T*Cmediatek,snd_audio_dsp snd_soc_audiodsp_common
 alias of:N*T*Cmediatek,snd_audio_dspC* snd_soc_audiodsp_common
 alias of:N*T*Cmediatek,camera_eeprom camera_eeprom
 alias of:N*T*Cmediatek,camera_eepromC* camera_eeprom
+alias spi:omnivision_tcm_spi omnivision_module
+alias of:N*T*Cmediatek,cap_touch_2 omnivision_module
+alias of:N*T*Cmediatek,cap_touch_2C* omnivision_module
 alias of:N*T*Cmediatek,mt6359-pmic-temp pmic_temp
 alias of:N*T*Cmediatek,mt6359-pmic-tempC* pmic_temp
 alias of:N*T*Cmediatek,mt6363-pmic-temp pmic_temp
@@ -218,8 +221,6 @@ alias of:N*T*Cmediatek,mt6366-soundC* snd_soc_mt6366
 alias of:N*T*Cmediatek,gpufreq_wrapper mtk_gpufreq_wrapper
 alias of:N*T*Cmediatek,gpufreq_wrapperC* mtk_gpufreq_wrapper
 alias i2c:tfa9874 snd_soc_tfa98xx
-alias of:N*T*Cmediatek,cap_touch ft3519_common
-alias of:N*T*Cmediatek,cap_touchC* ft3519_common
 alias platform:mtk-tpd gt9896s
 alias usbfunc:mtk_rndis mtk_usb_f_rndis
 alias of:N*T*Cmediatek,flashlight_core flashlight
@@ -277,7 +278,6 @@ alias of:N*T*Cmediatek,mtk-jpgenc-32bitC* mtk_jpeg
 alias of:N*T*Cmediatek,ged ged
 alias of:N*T*Cmediatek,gedC* ged
 alias usbfunc:via_modem c2k_usb_f_via_modem
-alias i2c:haptic_nv aw862xx_haptic
 alias i2c:cam_vdd_ext imgsensor_isp6s
 alias of:N*T*Cmediatek,cam_vdd_ext imgsensor_isp6s
 alias of:N*T*Cmediatek,cam_vdd_extC* imgsensor_isp6s
