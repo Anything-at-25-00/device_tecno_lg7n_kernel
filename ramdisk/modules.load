@@ -141,6 +141,7 @@ tinysys-scmi.ko
 mtk-mbox-mailbox.ko
 irq-dbg.ko
 mtk-socinfo.ko
+sec.ko
 tran_rhi.ko
 tran_chg.ko
 tran_battery_aging.ko

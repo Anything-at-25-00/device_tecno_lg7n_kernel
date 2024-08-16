@@ -143,7 +143,6 @@ cam_qos.ko
 mtk_cm_ipi.ko
 mtk_cm_mgr.ko
 mtk_cm_mgr_mt6789.ko
-sec.ko
 uload_ind.ko
 load_track.ko
 vdec-fmt.ko

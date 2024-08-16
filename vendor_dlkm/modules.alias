@@ -206,6 +206,8 @@ alias of:N*T*Cmediatek,mt6855-vcodec-enc mtk_vcodec_enc_v1
 alias of:N*T*Cmediatek,mt6855-vcodec-encC* mtk_vcodec_enc_v1
 alias of:N*T*Cmediatek,mt6833-vcodec-enc mtk_vcodec_enc_v1
 alias of:N*T*Cmediatek,mt6833-vcodec-encC* mtk_vcodec_enc_v1
+alias of:N*T*Cmediatek,mt6768-vcodec-enc mtk_vcodec_enc_v1
+alias of:N*T*Cmediatek,mt6768-vcodec-encC* mtk_vcodec_enc_v1
 alias of:N*T*Cmediatek,mt6789-vcodec-enc mtk_vcodec_enc_v1
 alias of:N*T*Cmediatek,mt6789-vcodec-encC* mtk_vcodec_enc_v1
 alias of:N*T*Cmediatek,venc_gcon mtk_vcodec_enc_v1
@@ -309,6 +311,8 @@ alias of:N*T*Cmediatek,mt6855-vcodec-dec mtk_vcodec_dec_v1
 alias of:N*T*Cmediatek,mt6855-vcodec-decC* mtk_vcodec_dec_v1
 alias of:N*T*Cmediatek,mt6833-vcodec-dec mtk_vcodec_dec_v1
 alias of:N*T*Cmediatek,mt6833-vcodec-decC* mtk_vcodec_dec_v1
+alias of:N*T*Cmediatek,mt6768-vcodec-dec mtk_vcodec_dec_v1
+alias of:N*T*Cmediatek,mt6768-vcodec-decC* mtk_vcodec_dec_v1
 alias of:N*T*Cmediatek,mt6789-vcodec-dec mtk_vcodec_dec_v1
 alias of:N*T*Cmediatek,mt6789-vcodec-decC* mtk_vcodec_dec_v1
 alias of:N*T*Cmediatek,vdec_gcon mtk_vcodec_dec_v1

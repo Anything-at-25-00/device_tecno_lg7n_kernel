@@ -159,6 +159,14 @@ alias of:N*T*Cmediatek,mt8173-disp-pwm pwm_mtk_disp
 alias of:N*T*Cmediatek,mt8173-disp-pwmC* pwm_mtk_disp
 alias of:N*T*Cmediatek,mt8183-disp-pwm pwm_mtk_disp
 alias of:N*T*Cmediatek,mt8183-disp-pwmC* pwm_mtk_disp
+alias of:N*T*Cmediatek,mt6768-disp-pwm pwm_mtk_disp
+alias of:N*T*Cmediatek,mt6768-disp-pwmC* pwm_mtk_disp
+alias of:N*T*Cmediatek,mt6765-disp-pwm pwm_mtk_disp
+alias of:N*T*Cmediatek,mt6765-disp-pwmC* pwm_mtk_disp
+alias of:N*T*Cmediatek,mt6761-disp-pwm pwm_mtk_disp
+alias of:N*T*Cmediatek,mt6761-disp-pwmC* pwm_mtk_disp
+alias of:N*T*Cmediatek,mt6739-disp-pwm pwm_mtk_disp
+alias of:N*T*Cmediatek,mt6739-disp-pwmC* pwm_mtk_disp
 alias of:N*T*Ctd4160,hdp,dsi,vdo,tm,tm,lg7n td4160_hdp_dsi_vdo_tm_tm_lg7n
 alias of:N*T*Ctd4160,hdp,dsi,vdo,tm,tm,lg7nC* td4160_hdp_dsi_vdo_tm_tm_lg7n
 alias of:N*T*Cmediatek,mt6357-dynamic_loading_throttling mtk_dynamic_loading_throttling
