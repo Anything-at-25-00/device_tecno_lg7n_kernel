@@ -47,7 +47,7 @@
 /vendor/lib/modules/ccci_ccif.ko: /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/transsion_tranlog.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
 /vendor/lib/modules/mali_mgm_mt6789.ko:
 /vendor/lib/modules/rps_perf.ko:
-/vendor/lib/modules/pn553.ko:
+/vendor/lib/modules/nfc_i2c.ko:
 /vendor/lib/modules/mtk_core_ctl.ko: /vendor/lib/modules/scheduler.ko /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_battery_oc_throttling.ko /vendor/lib/modules/mtk_bp_thl.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko /vendor/lib/modules/mtk-ssc.ko /vendor/lib/modules/mtk_gpu_hal.ko
 /vendor/lib/modules/mtk_qos.ko: /vendor/lib/modules/sspm_v3.ko
 /vendor/lib/modules/reboot-mode.ko:

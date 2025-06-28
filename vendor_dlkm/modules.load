@@ -157,7 +157,7 @@ pmsr.ko
 spmtwam.ko
 mtk_disp_sec.ko
 omnivision_module.ko
-pn553.ko
+nfc_i2c.ko
 aw87xxx_main.ko
 snd-soc-fsm.ko
 transsion_tranlog.ko

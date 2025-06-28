@@ -81,8 +81,8 @@ alias of:N*T*Cmediatek,vcu-io-vencC* mtk_vcu
 alias usbfunc:via_atc c2k_usb_f_via_atc
 alias of:N*T*Carm,physical-memory-group-manager mali_mgm_mt6789
 alias of:N*T*Carm,physical-memory-group-managerC* mali_mgm_mt6789
-alias of:N*T*Cnxp,pn544 pn553
-alias of:N*T*Cnxp,pn544C* pn553
+alias of:N*T*Cnxp,pn544 nfc_i2c
+alias of:N*T*Cnxp,pn544C* nfc_i2c
 alias of:N*T*Cmediatek,scpsys-disable-unused mtk_pm_domain_disable_unused
 alias of:N*T*Cmediatek,scpsys-disable-unusedC* mtk_pm_domain_disable_unused
 alias of:N*T*Cmediatek,mtk-lpm mtk_lpm_dbg_common_v1

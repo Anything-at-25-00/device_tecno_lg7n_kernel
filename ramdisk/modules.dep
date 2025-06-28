@@ -56,7 +56,7 @@
 /lib/modules/mtk_panel_ext.ko:
 /lib/modules/extcon-mtk-usb.ko: /lib/modules/mtk_charger_framework.ko /lib/modules/tran_chg.ko /lib/modules/mtk_charger_algorithm_class.ko /lib/modules/thermal_interface.ko /lib/modules/mtk_gpufreq_wrapper.ko /lib/modules/mtk_gpu_hal.ko /lib/modules/mtk_battery_oc_throttling.ko /lib/modules/mtk_bp_thl.ko /lib/modules/mtk_pbm.ko /lib/modules/mtk_mdpm.ko /lib/modules/mtk_dynamic_loading_throttling.ko /lib/modules/mtk_low_battery_throttling.ko /lib/modules/pmic_lbat_service.ko /lib/modules/gpueb.ko /lib/modules/mtk_tinysys_ipi.ko /lib/modules/mtk_rpmsg_mbox.ko /lib/modules/mtk-mbox.ko /lib/modules/mtk-ssc.ko /lib/modules/tinysys-scmi.ko /lib/modules/charger_class.ko /lib/modules/adapter_class.ko /lib/modules/aee_aed.ko /lib/modules/mrdump.ko
 /lib/modules/meta.ko: /lib/modules/bootprof.ko
-/lib/modules/pn553.ko:
+/lib/modules/nfc_i2c.ko:
 /lib/modules/mmprofile.ko: /lib/modules/aee_aed.ko /lib/modules/mrdump.ko
 /lib/modules/kfifo_buf.ko:
 /lib/modules/mtk-spmi-pmic.ko: /lib/modules/tran_expand_key.ko /lib/modules/mtk-pmic-keys.ko /lib/modules/regmap-spmi.ko

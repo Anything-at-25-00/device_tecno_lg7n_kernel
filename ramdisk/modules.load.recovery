@@ -161,7 +161,7 @@ sec.ko
 uload_ind.ko
 load_track.ko
 omnivision_module.ko
-pn553.ko
+nfc_i2c.ko
 tran_rhi.ko
 tran_chg.ko
 tran_battery_aging.ko
